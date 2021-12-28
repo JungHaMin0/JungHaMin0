@@ -36,7 +36,7 @@
 ## 📒주로 사용하는 사용 기술
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/spring Bott-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/spring Bot-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   
 ## 📕주로 사용하는 데이터베이스
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
