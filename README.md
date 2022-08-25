@@ -1,3 +1,4 @@
+/*
 <div align=center><h1>📚 STACKS</h1></div>
 
 <div align=center> 
@@ -48,3 +49,4 @@
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   
 </div>
+*/
